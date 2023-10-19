@@ -6,7 +6,8 @@ import Typography from '@mui/material/Typography';
 import Container from '@mui/material/Container';
 import Image from 'next/image';
 import MenuIcon from '@mui/icons-material/Menu';
-import { Box, IconButton, Menu, MenuItem ,useTheme} from '@mui/material';
+import { useTheme } from '@mui/material/styles';
+import { Box, IconButton, Menu, MenuItem } from '@mui/material';
 
 const pages = [
   {

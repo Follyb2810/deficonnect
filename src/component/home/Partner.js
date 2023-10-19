@@ -2,7 +2,6 @@
 import Style from './../../app/style/page.module.css'
 import { Grid, Paper, Typography } from '@mui/material';
 import { partnerData,PartnerHead } from './../data'
-import styled from '@emotion/styled';
 import Temp from '../Temp';
 
 const Partner = () => {
